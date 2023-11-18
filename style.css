@@ -1,0 +1,60 @@
+.header{
+    text-align: center;
+    text-decoration: underline;
+}
+.first{
+/* vertical-align:baseline; */
+margin-top: 1.7em;
+width: 30%;
+height: 280px;
+display: flex;
+border: 1px;
+}
+.second{
+    /* vertical-align:baseline; */
+    margin-top: 1.7em; 
+    width: 30%;
+    height: 280px;
+    display:flex;
+    border: 1px;
+    }
+    .third{
+        /* vertical-align:baseline; */
+        margin-top: 1.7em; 
+        width: 30%;
+        height: 280px;
+        display:flex;
+        border: 1px;
+        }
+        .four{
+            /* vertical-align:baseline; */
+            margin-top: 1.7em; 
+            width: 30%;
+            height: 280px;
+            display:flex;
+            border: 1px;
+            }
+            .five{
+                /* vertical-align:baseline; */
+                margin-top: 1.7em; 
+                width: 30%;
+                height: 280px;
+                display:flex;
+                border: 1px;
+                }
+                .six{
+                    /* vertical-align:baseline; */
+                    margin-top: 1.7em; 
+                    width: 30%;
+                    height: 280px;
+                    display:flex;
+                    border: 1px;
+                    }
+
+ section{
+    margin-top: 0.5em;
+    width: 90%;
+    border: 2px solid red;
+    height: 40vh;
+    display: flex;
+} 
